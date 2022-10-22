@@ -1,0 +1,2 @@
+# casper-ghost
+gestão escolar
